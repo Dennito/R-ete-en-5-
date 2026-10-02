@@ -17,8 +17,17 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 01 Oct 2026 19:04:13 -0400</lastBuildDate>
-    <item>
+    <lastBuildDate>Fri, 02 Oct 2026 15:59:33 -0400</lastBuildDate>
+        <item>
+      <title>El ladrón invisible y la noticia más insólita del día</title>
+      <description>Sofía y Diego se ríen con vacas que tienen mejores amigas, gatos que te engañan con el helado, koalas con huellas humanas y la noticia más insólita del día: el hombre que le pagó a un mago para volverse invisible y robar un banco. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Fri, 02 Oct 2026 15:59:33 -0400</pubDate>
+      <guid isPermaLink="false">rete-en-5-edicin-expresiva-demo-2026-10-02</guid>
+      <enclosure url="https://files.catbox.moe/8cx6om.mp3" length="2063122" type="audio/mpeg"/>
+      <itunes:duration>02:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Pulpos con tres corazones, wombats cuadrados y nutrias enamoradas</title>
       <description>En el primer episodio: pulpos con tres corazones que juegan con juguetes, el corazón del camarón en su cabeza, nutrias que se toman de las patas para dormir, wombats con popó en forma de cubo, flamencos rosados por su dieta, la ley suiza de los cuyos y el dato matemático de las cartas.</description>
       <pubDate>Thu, 01 Oct 2026 19:04:13 -0400</pubDate>
