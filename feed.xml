@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ríete en 5 con Dennito</title>
+    <title>Insólito en 5 con Dennito</title>
     <link>https://github.com/Dennito/R-ete-en-5-</link>
     <atom:link href="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Curiosidades divertidas del mundo en cinco minutos, con Sofía y Diego.</description>
+    <description>Cosas que no sabías: datos fascinantes del mundo — insólitos, relevantes o desconocidos, de todo tipo: ciencia, tecnología, historia, naturaleza, cultura — contados con energía y reacciones genuinas por Sofía y Diego. Nunca presentado como noticias.</description>
     <language>es</language>
     <copyright>© 2026 Dennito</copyright>
     <itunes:author>Dennito</itunes:author>
-    <itunes:summary>Curiosidades divertidas del mundo en cinco minutos, con Sofía y Diego.</itunes:summary>
+    <itunes:summary>Cosas que no sabías: datos fascinantes del mundo — insólitos, relevantes o desconocidos, de todo tipo: ciencia, tecnología, historia, naturaleza, cultura — contados con energía y reacciones genuinas por Sofía y Diego. Nunca presentado como noticias.</itunes:summary>
     <itunes:owner>
       <itunes:name>Dennito</itunes:name>
       <itunes:email>dennysbank@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/covers/riete-en-5-cover-1400.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/covers/insolito-en-5-cover-1400.jpg"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
