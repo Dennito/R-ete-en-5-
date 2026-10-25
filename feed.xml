@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 25 Oct 2026 12:55:09 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                <item>
+    <lastBuildDate>Sun, 25 Oct 2026 15:55:38 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                    <item>
+      <title>La luz azul que tardó treinta años, el ascensor que no caía y la máquina que resolvió cincuenta años</title>
+      <description>Tarde de cómo lo hicieron: la luz azul que completó la luz blanca, el ascensor que se hizo seguro cortando su propia cuerda, el cinturón que Volvo regaló al mundo, el tubo con fuga que hizo florecer un desierto, el concreto romano que se cura solo y, como plato fuerte, la máquina que resolvió el misterio de las proteínas. Pregunta del día: si una máquina pudiera resolver un misterio de la ciencia, ¿qué le pedirías que resolviera primero? Opción A: la cura de una enfermedad que hoy no tiene cura. Opción B: cómo limpiar los océanos y frenar el daño al clima. Opción C: cómo hacer que los alimentos duren más sin que se desperdicie nada. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sun, 25 Oct 2026 15:55:38 -0400</pubDate>
+      <guid isPermaLink="false">la-luz-azul-que-tard-treinta-aos-el-ascensor-que-no-caa-y-la-mquina-que-resolvi-cincuenta-aos-2026-10-25</guid>
+      <enclosure url="https://files.catbox.moe/u0xrgo.mp3" length="14204418" type="audio/mpeg"/>
+      <itunes:duration>14:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El clic que entrenó a las máquinas, el lavaplatos que nació de una vajilla rota y la memoria que te engaña</title>
       <description>Dennito modera el plato fuerte del mediodía: el clic que entrenó a las máquinas, el lavaplatos que nació de una vajilla rota, el idioma de Europa sin parientes, dos datos relámpago, una llamada en vivo desde Columbus y, como Dato Bomba, la prueba de que tu memoria puede engañarte. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sun, 25 Oct 2026 12:55:09 -0400</pubDate>
@@ -549,14 +558,6 @@
       <itunes:duration>02:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Pulpos con tres corazones, wombats cuadrados y nutrias enamoradas</title>
-      <description>En el primer episodio: pulpos con tres corazones que juegan con juguetes, el corazón del camarón en su cabeza, nutrias que se toman de las patas para dormir, wombats con popó en forma de cubo, flamencos rosados por su dieta, la ley suiza de los cuyos y el dato matemático de las cartas.</description>
-      <pubDate>Thu, 01 Oct 2026 19:04:13 -0400</pubDate>
-      <guid isPermaLink="false">pulpos-con-tres-corazones-wombats-cuadrados-y-nutrias-enamoradas-2026-10-01</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/pulpos-con-tres-corazones-wombats-cuadrados-y-nutrias-enamoradas-2026-10-01.mp3" length="3358378" type="audio/mpeg"/>
-      <itunes:duration>03:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
   </channel>
 </rss>
