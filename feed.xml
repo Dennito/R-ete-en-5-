@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 25 Oct 2026 15:55:38 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                    <item>
+    <lastBuildDate>Sun, 25 Oct 2026 16:09:32 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                        <item>
+      <title>El zumbido que nadie graba, el mapa imposible y la compañera secreta de la Tierra</title>
+      <description>El zumbido de Taos que solo oyen unos, el rayo en bola que entra por la ventana, el mapa de Piri Reis, la ciudad bajo el mar de Yonaguni y el Dato Bomba: Cruithne, la compañera secreta de la Tierra. Pregunta del día: antes de este episodio, ¿creías que la Tierra tenía una sola compañera en su órbita? Opción A: sí, creía que solo la Luna nos acompañaba. Opción B: no, ya sabía que hay asteroides que comparten nuestra órbita. Opción C: nunca me lo había preguntado. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sun, 25 Oct 2026 16:09:32 -0400</pubDate>
+      <guid isPermaLink="false">el-zumbido-que-nadie-graba-el-mapa-imposible-y-la-compaera-secreta-de-la-tierra-2026-10-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-zumbido-que-nadie-graba-el-mapa-imposible-y-la-compaera-secreta-de-la-tierra-2026-10-25.mp3" length="12394623" type="audio/mpeg"/>
+      <itunes:duration>12:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>La luz azul que tardó treinta años, el ascensor que no caía y la máquina que resolvió cincuenta años</title>
       <description>Tarde de cómo lo hicieron: la luz azul que completó la luz blanca, el ascensor que se hizo seguro cortando su propia cuerda, el cinturón que Volvo regaló al mundo, el tubo con fuga que hizo florecer un desierto, el concreto romano que se cura solo y, como plato fuerte, la máquina que resolvió el misterio de las proteínas. Pregunta del día: si una máquina pudiera resolver un misterio de la ciencia, ¿qué le pedirías que resolviera primero? Opción A: la cura de una enfermedad que hoy no tiene cura. Opción B: cómo limpiar los océanos y frenar el daño al clima. Opción C: cómo hacer que los alimentos duren más sin que se desperdicie nada. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sun, 25 Oct 2026 15:55:38 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El ladrón invisible y la noticia más insólita del día</title>
-      <description>Sofía y Diego se ríen con vacas que tienen mejores amigas, gatos que te engañan con el helado, koalas con huellas humanas y la noticia más insólita del día: el hombre que le pagó a un mago para volverse invisible y robar un banco. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Fri, 02 Oct 2026 15:59:33 -0400</pubDate>
-      <guid isPermaLink="false">rete-en-5-edicin-expresiva-demo-2026-10-02</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/rete-en-5-edicin-expresiva-demo-2026-10-02.mp3" length="2063122" type="audio/mpeg"/>
-      <itunes:duration>02:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
   </channel>
 </rss>
