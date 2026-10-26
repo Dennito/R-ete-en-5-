@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 25 Oct 2026 16:09:32 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                        <item>
+    <lastBuildDate>Mon, 26 Oct 2026 08:56:08 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                            <item>
+      <title>La maestra del barril, el primer teléfono móvil y la baraja imposible</title>
+      <description>Annie Edson Taylor bajó las cataratas del Niágara en un barril, Martin Cooper hizo la primera llamada móvil para presumirle a su rival, un edificio de Londres derretía autos con el sol, un maratonista hizo trampa en auto y la baraja que nunca se repite. Pregunta del día: Si barajas un mazo ahora mismo, ¿qué crees que pasa? Opción A: que esa combinación ya salió millones de veces. Opción B: que es casi seguro la primera vez en la historia que sale así. Opción C: que nadie lo puede saber. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Mon, 26 Oct 2026 08:56:08 -0400</pubDate>
+      <guid isPermaLink="false">la-maestra-del-barril-el-primer-telfono-mvil-y-la-baraja-imposible-2026-10-26</guid>
+      <enclosure url="https://files.catbox.moe/52qdut.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El zumbido que nadie graba, el mapa imposible y la compañera secreta de la Tierra</title>
       <description>El zumbido de Taos que solo oyen unos, el rayo en bola que entra por la ventana, el mapa de Piri Reis, la ciudad bajo el mar de Yonaguni y el Dato Bomba: Cruithne, la compañera secreta de la Tierra. Pregunta del día: antes de este episodio, ¿creías que la Tierra tenía una sola compañera en su órbita? Opción A: sí, creía que solo la Luna nos acompañaba. Opción B: no, ya sabía que hay asteroides que comparten nuestra órbita. Opción C: nunca me lo había preguntado. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sun, 25 Oct 2026 16:09:32 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Pingüinos románticos, cuervos vengativos y la ecografía falsa</title>
-      <description>Sofía y Diego con curiosidades desternillantes: pingüinos que proponen matrimonio con piedras, cuervos que guardan rencor y traen regalos, miel de tres mil años, hipopótamos con bloqueador natural, y la noticia más insólita del día. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sat, 03 Oct 2026 12:34:17 -0400</pubDate>
-      <guid isPermaLink="false">pinginos-romnticos-cuervos-vengativos-y-la-ecografa-falsa-2026-10-03</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/pinginos-romnticos-cuervos-vengativos-y-la-ecografa-falsa-2026-10-03.mp3" length="4597209" type="audio/mpeg"/>
-      <itunes:duration>04:47</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
   </channel>
