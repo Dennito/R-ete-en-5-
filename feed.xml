@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 27 Oct 2026 08:56:01 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                            <item>
+    <lastBuildDate>Tue, 27 Oct 2026 12:41:47 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                <item>
+      <title>El cristal eterno, el theremin y la rata héroe</title>
+      <description>En Insólito en 5 con Dennito del mediodía, con Dennito moderador: un cristal que guarda datos por más tiempo que el universo, un instrumento que suena sin tocarlo, una biblioteca donde se prestan personas, la rata héroe Magawa, la llamada de Jimena desde Burlington y el Dato Bomba de las partículas fantasma. Pregunta del día: ¿Qué pasa con los neutrinos que atraviesan tu cuerpo cada segundo? Opción A: chocan con tus átomos y por eso los sientes. Opción B: casi todos pasan sin tocar un solo átomo. Opción C: se quedan guardados dentro de tu cuerpo para siempre. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Tue, 27 Oct 2026 12:41:47 -0400</pubDate>
+      <guid isPermaLink="false">el-cristal-eterno-el-theremin-y-la-rata-hroe-2026-10-27</guid>
+      <enclosure url="https://files.catbox.moe/v6rm37.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>La palmera que camina, el hotel que se derrite y el gato que fue alcalde</title>
       <description>En Insólito en 5 con Dennito de esta mañana: una palmera que se mueve con sus raíces, un hotel que se construye cada invierno y se derrite en primavera, el coche eléctrico que ya existía hace casi dos siglos, un gato que fue alcalde veinte años, la llamada de una oyente y el Dato Bomba del cielo. Pregunta del día: ¿qué es Kamo'oalewa? Opción A: un fragmento de la Luna que acompaña a la Tierra en su vuelta alrededor del Sol. Opción B: una segunda Luna que gira alrededor de la Tierra como nuestra Luna. Opción C: un satélite artificial olvidado que quedó dando vueltas cerca de la Tierra. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Tue, 27 Oct 2026 08:56:01 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>14:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El camarón que boxea, el unicornio de Escocia y el modo tardígrado</title>
-      <description>Sofía y Diego en Ríete en 5 con Dennito: quince datos insólitos convertidos en chistes con remate, del camarón mantis que golpea como una bala al unicornio de Escocia, pasando por el tardígrado inmortal, la medusa que se reinicia, la ronda relámpago y el inventor enterrado en un tubo de Pringles. Con los running gags modo tardígrado y modo unicornio. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Wed, 07 Oct 2026 11:50:57 -0400</pubDate>
-      <guid isPermaLink="false">el-camarn-que-boxea-el-unicornio-de-escocia-y-el-modo-tardgrado-2026-10-07</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-camarn-que-boxea-el-unicornio-de-escocia-y-el-modo-tardgrado-2026-10-07.mp3" length="9607703" type="audio/mpeg"/>
-      <itunes:duration>10:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
