@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 26 Oct 2026 16:02:19 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                    <item>
+    <lastBuildDate>Mon, 26 Oct 2026 20:42:12 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                        <item>
+      <title>El pueblo que desapareció, el enigma de internet y el océano escondido bajo la Tierra</title>
+      <description>Insólito en 5 con Dennito, noche: un pueblo entero que desapareció dejando una sola palabra, un enigma de internet que nadie resolvió, un bosque con un círculo imposible, un pozo que lleva más de dos siglos sin entregar su secreto, la llamada de Renata desde Lexington y el Dato Bomba: el océano escondido bajo la Tierra. Pregunta del día: Si llegas a un pueblo vacío y solo queda una palabra tallada en un poste, ¿qué haces primero? Opción A: sigues la pista hacia la isla que nombra la palabra. Opción B: buscas huellas y señales de pelea antes de moverte. Opción C: dejas tu propia marca y vuelves con ayuda. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Mon, 26 Oct 2026 20:42:12 -0400</pubDate>
+      <guid isPermaLink="false">el-pueblo-que-desapareci-el-enigma-de-internet-y-el-ocano-escondido-bajo-la-tierra-2026-10-26</guid>
+      <enclosure url="https://files.catbox.moe/i04t82.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El traje cosido a mano que llegó a la Luna, el satélite que asustó al mundo y el telescopio que nació ciego</title>
       <description>Insólito en 5 con Dennito, tarde: el traje lunar cosido por costureras de Playtex, el Sputnik que pitaba sobre el mundo, el globo Montgolfier con una oveja, un pato y un gallo, el marcapasos que nació por un resistor equivocado, los relámpagos del fonógrafo y el microchip, la llamada de Lorena desde Des Moines y el Dato Bomba, el telescopio Hubble que nació ciego. Pregunta del día: Si te tocara coser un traje para caminar en la Luna, ¿qué harías primero? Opción A: probar cada costura tirando con fuerza hasta estar seguro. Opción B: coserlo a mano, puntada por puntada, sin prisa. Opción C: ponerle más capas hasta que no se rompa de ninguna manera. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Mon, 26 Oct 2026 16:02:19 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>13:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El corazón de una ballena, caballos que no vomitan y el arca de Noé sobre ruedas</title>
-      <description>Sofía y Diego se ríen con las rarezas del reino animal: el corazón gigante de la ballena azul, los caballos que no pueden vomitar, caracoles que duermen tres años y mariposas que saborean con los pies. Y la noticia más insólita del día: 377 animales exóticos escondidos en un carro en Sicilia. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Tue, 06 Oct 2026 11:49:51 -0400</pubDate>
-      <guid isPermaLink="false">el-corazn-de-una-ballena-caballos-que-no-vomitan-y-el-arca-de-no-sobre-ruedas-2026-10-06</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-corazn-de-una-ballena-caballos-que-no-vomitan-y-el-arca-de-no-sobre-ruedas-2026-10-06.mp3" length="4218538" type="audio/mpeg"/>
-      <itunes:duration>04:23</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
