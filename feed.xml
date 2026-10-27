@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 26 Oct 2026 20:42:12 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                        <item>
+    <lastBuildDate>Tue, 27 Oct 2026 08:56:01 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                            <item>
+      <title>La palmera que camina, el hotel que se derrite y el gato que fue alcalde</title>
+      <description>En Insólito en 5 con Dennito de esta mañana: una palmera que se mueve con sus raíces, un hotel que se construye cada invierno y se derrite en primavera, el coche eléctrico que ya existía hace casi dos siglos, un gato que fue alcalde veinte años, la llamada de una oyente y el Dato Bomba del cielo. Pregunta del día: ¿qué es Kamo'oalewa? Opción A: un fragmento de la Luna que acompaña a la Tierra en su vuelta alrededor del Sol. Opción B: una segunda Luna que gira alrededor de la Tierra como nuestra Luna. Opción C: un satélite artificial olvidado que quedó dando vueltas cerca de la Tierra. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Tue, 27 Oct 2026 08:56:01 -0400</pubDate>
+      <guid isPermaLink="false">la-palmera-que-camina-el-hotel-que-se-derrite-y-el-gato-que-fue-alcalde-2026-10-27</guid>
+      <enclosure url="https://files.catbox.moe/hoq9j6.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El pueblo que desapareció, el enigma de internet y el océano escondido bajo la Tierra</title>
       <description>Insólito en 5 con Dennito, noche: un pueblo entero que desapareció dejando una sola palabra, un enigma de internet que nadie resolvió, un bosque con un círculo imposible, un pozo que lleva más de dos siglos sin entregar su secreto, la llamada de Renata desde Lexington y el Dato Bomba: el océano escondido bajo la Tierra. Pregunta del día: Si llegas a un pueblo vacío y solo queda una palabra tallada en un poste, ¿qué haces primero? Opción A: sigues la pista hacia la isla que nombra la palabra. Opción B: buscas huellas y señales de pelea antes de moverte. Opción C: dejas tu propia marca y vuelves con ayuda. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Mon, 26 Oct 2026 20:42:12 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>10:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Especial 15 minutos: el wombat escultor, el koala sospechoso y la mantis influencer</title>
-      <description>Especial largo de Ríete en 5 con Dennito: quince minutos de comedia pura con Sofía y Diego. El wombat que hace cubos, el pulpo de tres corazones, el interrogatorio al koala sospechoso, el camarón pistola más ruidoso que el sol, cabras con acento, el debate del peor compañero de piso, el juego del peor chiste, y el gran final con los finalistas de los Comedy Wildlife Awards 2026. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Wed, 07 Oct 2026 07:51:16 -0400</pubDate>
-      <guid isPermaLink="false">especial-15-minutos-el-wombat-escultor-el-koala-sospechoso-y-la-mantis-influencer-2026-10-07</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/especial-15-minutos-el-wombat-escultor-el-koala-sospechoso-y-la-mantis-influencer-2026-10-07.mp3" length="12741979" type="audio/mpeg"/>
-      <itunes:duration>13:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
