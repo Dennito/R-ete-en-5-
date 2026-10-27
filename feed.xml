@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 27 Oct 2026 12:41:47 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                <item>
+    <lastBuildDate>Tue, 27 Oct 2026 15:41:39 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                    <item>
+      <title>El aire que nació en una imprenta, la noria gigante y el vidrio que salvó vidas</title>
+      <description>En Insólito en 5 con Dennito de la tarde, con Sofía y Diego: el aire acondicionado que nació en una imprenta, la noria gigante de Chicago, el vidrio laminado, los jeans con remaches, el USB, dos datos relámpago, la llamada de Valentina desde Santa Rosa y el Dato Bomba de la penicilina. Pregunta del día: Si encuentras moho creciendo en un plato en tu laboratorio, ¿qué harías tú primero? Opción A: tirarlo a la basura sin mirarlo. Opción B: mirarlo con el microscopio antes de tirarlo, por si esconde algo. Opción C: guardarlo y enseñárselo a otro científico para que lo estudie contigo. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Tue, 27 Oct 2026 15:41:39 -0400</pubDate>
+      <guid isPermaLink="false">el-aire-que-naci-en-una-imprenta-la-noria-gigante-y-el-vidrio-que-salv-vidas-2026-10-27</guid>
+      <enclosure url="https://files.catbox.moe/bhbdr0.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El cristal eterno, el theremin y la rata héroe</title>
       <description>En Insólito en 5 con Dennito del mediodía, con Dennito moderador: un cristal que guarda datos por más tiempo que el universo, un instrumento que suena sin tocarlo, una biblioteca donde se prestan personas, la rata héroe Magawa, la llamada de Jimena desde Burlington y el Dato Bomba de las partículas fantasma. Pregunta del día: ¿Qué pasa con los neutrinos que atraviesan tu cuerpo cada segundo? Opción A: chocan con tus átomos y por eso los sientes. Opción B: casi todos pasan sin tocar un solo átomo. Opción C: se quedan guardados dentro de tu cuerpo para siempre. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Tue, 27 Oct 2026 12:41:47 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>12:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El pepino de mar dramático, el tiburón más viejo que un país y la plaga del baile</title>
-      <description>Sofía y Diego en Ríete en 5 con Dennito: el pepino de mar que suelta sus tripas, la plaga del baile de 1518, las abejas que dan direcciones bailando, el tiburón de Groenlandia de cuatrocientos años, el canguro que no retrocede, los dientes naranjas del castor, el pez payaso que cambia de sexo y la rana de cristal. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Thu, 08 Oct 2026 11:54:32 -0400</pubDate>
-      <guid isPermaLink="false">el-pepino-de-mar-dramtico-el-tiburn-ms-viejo-que-un-pas-y-la-plaga-del-baile-2026-10-08</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-pepino-de-mar-dramtico-el-tiburn-ms-viejo-que-un-pas-y-la-plaga-del-baile-2026-10-08.mp3" length="13650623" type="audio/mpeg"/>
-      <itunes:duration>14:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
