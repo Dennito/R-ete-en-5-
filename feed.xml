@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 27 Oct 2026 20:44:08 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                        <item>
+    <lastBuildDate>Wed, 28 Oct 2026 08:56:01 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                            <item>
+      <title>El mercado del tren, la nevera de barro y el papel que llega a la Luna</title>
+      <description>En Insólito en 5 con Dennito de esta mañana: un mercado en Tailandia que se recoge cuando pasa el tren, una nevera de barro que enfría sin electricidad, tinta hecha con contaminación, una playa de cristal, una sandía cuadrada, hockey bajo el agua, el café pendiente de Nápoles, la llamada de Alonso desde Fargo y el Dato Bomba del papel que llega a la Luna. Pregunta del día: ¿cuántas veces hay que doblar un papel para llegar a la Luna? Opción A: cuarenta y dos veces, porque cada doblez duplica el grueso y a los cuarenta y dos dobleces ya pasas la distancia a la Luna. Opción B: siete veces, porque en la práctica es lo que cuesta doblar un papel normal en la mesa de la cocina. Opción C: mil veces, porque la Luna queda tan lejos que harían falta mil dobleces para alcanzarla. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Wed, 28 Oct 2026 08:56:01 -0400</pubDate>
+      <guid isPermaLink="false">el-mercado-del-tren-la-nevera-de-barro-y-el-papel-que-llega-a-la-luna-2026-10-28</guid>
+      <enclosure url="https://files.catbox.moe/ayw1sz.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El mensaje que mandamos a las estrellas, la isla de las muñecas y la ciudad fantasma</title>
       <description>Noche de lo que no se explica: el mensaje de Arecibo que todavía viaja a las estrellas, la Isla de las Muñecas de Xochimilco, la ciudad fantasma de Hashima, las pirámides de Visoko, el Caballero Negro, la llamada de Miriam desde Hartford y el Dato Bomba: hay más árboles en la Tierra que estrellas en la Vía Láctea. Pregunta del día: ¿Qué hay más, árboles en la Tierra o estrellas en la Vía Láctea? Opción A: árboles, más de tres millones de millones. Opción B: estrellas, por mucho. Opción C: más o menos igual. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Tue, 27 Oct 2026 20:44:08 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>13:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Flamencos pálidos, papás embarazados y el canguro fugitivo</title>
-      <description>Sofía y Diego en Ríete en 5 con Dennito: el flamenco que pierde el bronceado sin dieta, ratas que se ríen con cosquillas, el pingüino que propone matrimonio con una piedra, el caballito de mar embarazado, la tortuga que respira por el trasero, el caracol de catorce mil dientes, los romanos y su enjuague bucal de orina, Cleopatra más cerca del iPhone que de las pirámides, y la noticia más insólita del día: un canguro fugitivo en Missouri. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sat, 10 Oct 2026 11:56:28 -0400</pubDate>
-      <guid isPermaLink="false">flamencos-plidos-paps-embarazados-y-el-canguro-fugitivo-2026-10-10</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/flamencos-plidos-paps-embarazados-y-el-canguro-fugitivo-2026-10-10.mp3" length="13949881" type="audio/mpeg"/>
-      <itunes:duration>14:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
