@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 27 Oct 2026 15:41:39 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                    <item>
+    <lastBuildDate>Tue, 27 Oct 2026 20:44:08 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                        <item>
+      <title>El mensaje que mandamos a las estrellas, la isla de las muñecas y la ciudad fantasma</title>
+      <description>Noche de lo que no se explica: el mensaje de Arecibo que todavía viaja a las estrellas, la Isla de las Muñecas de Xochimilco, la ciudad fantasma de Hashima, las pirámides de Visoko, el Caballero Negro, la llamada de Miriam desde Hartford y el Dato Bomba: hay más árboles en la Tierra que estrellas en la Vía Láctea. Pregunta del día: ¿Qué hay más, árboles en la Tierra o estrellas en la Vía Láctea? Opción A: árboles, más de tres millones de millones. Opción B: estrellas, por mucho. Opción C: más o menos igual. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Tue, 27 Oct 2026 20:44:08 -0400</pubDate>
+      <guid isPermaLink="false">el-mensaje-que-mandamos-a-las-estrellas-la-isla-de-las-muecas-y-la-ciudad-fantasma-2026-10-27</guid>
+      <enclosure url="https://files.catbox.moe/rh3pw2.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El aire que nació en una imprenta, la noria gigante y el vidrio que salvó vidas</title>
       <description>En Insólito en 5 con Dennito de la tarde, con Sofía y Diego: el aire acondicionado que nació en una imprenta, la noria gigante de Chicago, el vidrio laminado, los jeans con remaches, el USB, dos datos relámpago, la llamada de Valentina desde Santa Rosa y el Dato Bomba de la penicilina. Pregunta del día: Si encuentras moho creciendo en un plato en tu laboratorio, ¿qué harías tú primero? Opción A: tirarlo a la basura sin mirarlo. Opción B: mirarlo con el microscopio antes de tirarlo, por si esconde algo. Opción C: guardarlo y enseñárselo a otro científico para que lo estudie contigo. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Tue, 27 Oct 2026 15:41:39 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>14:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El cerdo que nunca vio el cielo, el quokka feliz y el emperador del pipí</title>
-      <description>Sofía y Diego se ríen a carcajadas con el cerdo que no puede mirar al cielo, los delfines que tienen nombre propio, el ornitorrinco venenoso, el quokka más feliz del mundo, el capibara de spa, el emperador romano que cobraba impuestos por la orina y la noticia más insólita del día: todo lo que la gente olvida en los Uber. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Fri, 09 Oct 2026 11:57:31 -0400</pubDate>
-      <guid isPermaLink="false">el-cerdo-que-nunca-vio-el-cielo-el-quokka-feliz-y-el-emperador-del-pip-2026-10-09</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-cerdo-que-nunca-vio-el-cielo-el-quokka-feliz-y-el-emperador-del-pip-2026-10-09.mp3" length="11796138" type="audio/mpeg"/>
-      <itunes:duration>12:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
