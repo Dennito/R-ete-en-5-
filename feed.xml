@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 28 Oct 2026 12:41:31 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                                <item>
+    <lastBuildDate>Wed, 28 Oct 2026 15:42:09 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                                    <item>
+      <title>El computador de treinta toneladas, la foto que salía sola y el cubo imposible</title>
+      <description>Cinco inventos que parecían locura: el ENIAC de treinta toneladas que se programaba con cables, la foto instantánea que nació de la pregunta de una niña, el código de barras dibujado en la arena, el motor a reacción que nadie quiso, la impresora que imprime objetos, más dos datos relámpago, la llamada en vivo de Inés desde Anchorage y el Dato Bomba del cubo de Rubik. Pregunta del día: Si tuvieras que programar el ENIAC enchufando cables a mano, ¿qué le pedirías que calculara primero? Opción A: la trayectoria de un cohete hasta la Luna. Opción B: el pronóstico del tiempo de todo un año, día por día. Opción C: todos los números de la lotería de la semana que viene. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Wed, 28 Oct 2026 15:42:09 -0400</pubDate>
+      <guid isPermaLink="false">el-computador-de-treinta-toneladas-la-foto-que-sala-sola-y-el-cubo-imposible-2026-10-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-computador-de-treinta-toneladas-la-foto-que-sala-sola-y-el-cubo-imposible-2026-10-28.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El aeropuerto de la playa, el ascensor de lado y el ADN que llega al Sol</title>
       <description>Mediodía del miércoles 28 de octubre de 2026, carácter plato fuerte, con Dennito como moderador: un aeropuerto donde los aviones aterrizan en la playa de Barra, el ascensor MULTI que se mueve de lado, el correo en globo del asedio de París, la biblioteca flotante de Noruega, el pueblo sin calles de Giethoorn, la orquesta que toca bajo el agua, el árbol que explota y el Dato Bomba del ADN que llega al Sol y vuelve más de doscientas veces. Con la llamada en vivo de Emilia desde Portland, Oregón. Pregunta del día: Si desenrollaras todo el ADN de tu cuerpo y lo pusieras punta con punta, ¿hasta dónde llegaría? Opción A: al Sol y volver más de doscientas veces. Opción B: a la Luna y volver unas diez veces. Opción C: apenas alcanzaría para cruzar tu ciudad de un lado a otro. Escribe tu respuesta en los comentarios, dale like si el capítulo te sorprendió y suscríbete. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Wed, 28 Oct 2026 12:41:31 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>13:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El estómago dragón, el ajolote que se regenera y el hombre del hipo eterno</title>
-      <description>Sofía y Diego en la edición del mediodía del domingo once de octubre: el estómago que se muda de piel cada tres días, el ajolote que regenera hasta el cerebro, el perezoso que tarda un mes en digerir una hoja, los gatos que no prueban lo dulce, el pingüino que propone matrimonio con una piedrita, los cuervos que guardan rencor familiar, la rana que se congela y resucita, las vacas y sus mejores amigas, el canguro fugitivo de Missouri, la miel de tres mil años y el hombre que tuvo hipo durante sesenta y ocho años. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sun, 11 Oct 2026 11:54:28 -0400</pubDate>
-      <guid isPermaLink="false">el-estmago-dragn-el-ajolote-que-se-regenera-y-el-hombre-del-hipo-eterno-2026-10-11</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-estmago-dragn-el-ajolote-que-se-regenera-y-el-hombre-del-hipo-eterno-2026-10-11.mp3" length="15930590" type="audio/mpeg"/>
-      <itunes:duration>16:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
