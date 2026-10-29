@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 29 Oct 2026 08:56:52 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                                            <item>
+    <lastBuildDate>Thu, 29 Oct 2026 12:41:50 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                <item>
+      <title>El cuadro que se rompió solo, el edificio de las termitas y el día que un país borró</title>
+      <description>Dennito modera el plato fuerte del mediodía: un cuadro de Banksy que se trituró solo en plena subasta y terminó valiendo más roto, un edificio que respira como un montículo de termitas, el satélite toronja que sigue en órbita desde 1958, un deporte sin manos, un instrumento que suena sin parar, la llamada de Noa desde Savannah y el Dato Bomba de un país que borró un día entero del calendario. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Thu, 29 Oct 2026 12:41:50 -0400</pubDate>
+      <guid isPermaLink="false">el-cuadro-que-se-rompi-solo-el-edificio-de-las-termitas-y-el-da-que-un-pas-borr-2026-10-29</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-cuadro-que-se-rompi-solo-el-edificio-de-las-termitas-y-el-da-que-un-pas-borr-2026-10-29.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El pueblo que no entierra, el reloj de diez mil años y las monedas de piedra</title>
       <description>En Insólito en 5 con Dennito de esta mañana: el pueblo de Longyearbyen, donde dicen que está prohibido morir, el reloj de Texas que quiere durar diez mil años, las monedas de piedra de Yap que pesan toneladas, el Museo de los Fracasos, la primera multa de la historia por ir a ocho millas por hora, una carretera que canta desafinada, los monasterios colgando del cielo de las Meteora, la llamada de Belén desde Baton Rouge y el Dato Bomba de la luz que tardó miles de años en salir del Sol. Pregunta del día: ¿cuánto tardó la energía de la luz de esta mañana en salir del Sol? Opción A: miles de años rebotando dentro del Sol, y luego ocho minutos y veinte segundos desde su superficie hasta aquí. Opción B: solo ocho minutos y veinte segundos en total, desde el núcleo del Sol hasta tu ventana. Opción C: un día entero, desde el núcleo del Sol hasta la Tierra, sin paradas. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Thu, 29 Oct 2026 08:56:52 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>13:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El teclado vengativo, la mantis come-novios y once días sin dormir</title>
-      <description>Ríete en 5 con Dennito — lunes 12 de octubre: El Dato Bomba revela que el teclado QWERTY se diseñó para frenar a los mecanógrafos, y que la erre está arriba por puro marketing. La mantis religiosa y la peor cita de la historia, con el nuevo running gag modo mantis. El Dato del Oyente con Yenny desde Orlando. Y el muchacho que pasó once días sin dormir, le ganó al científico en pinball y ganó la feria de ciencias. Chistes narrados clásicos con Jaimito y Pepito. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Mon, 12 Oct 2026 12:07:41 -0400</pubDate>
-      <guid isPermaLink="false">el-teclado-vengativo-la-mantis-come-novios-y-once-das-sin-dormir-2026-10-12</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-teclado-vengativo-la-mantis-come-novios-y-once-das-sin-dormir-2026-10-12.mp3" length="13722511" type="audio/mpeg"/>
-      <itunes:duration>14:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
