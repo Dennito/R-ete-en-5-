@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 28 Oct 2026 15:42:09 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                                    <item>
+    <lastBuildDate>Wed, 28 Oct 2026 20:41:51 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                                        <item>
+      <title>La explosión sin cráter, el cráter que arde y el hombre que saltó al vacío</title>
+      <description>Noche de misterios en Insólito en 5 con Dennito: la explosión de Tunguska que no dejó cráter, el cráter de Darvaza que arde desde 1971, el saola que casi nadie ha visto, la señal espacial que salía de un microondas, D. B. Cooper y, como Dato Bomba, el Gran Atractor que tira de nuestra galaxia. Pregunta del día: ¿qué creen que es el Gran Atractor? Opción A: una región con muchísima masa junta, un montón de galaxias y cúmulos, que tira de nosotros con su gravedad. Opción B: un solo agujero negro gigante que se traga todo lo que se acerca. Opción C: un planeta enorme y oscuro que nadie ha visto todavía. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Wed, 28 Oct 2026 20:41:51 -0400</pubDate>
+      <guid isPermaLink="false">la-explosin-sin-crter-el-crter-que-arde-y-el-hombre-que-salt-al-vaco-2026-10-28</guid>
+      <enclosure url="https://files.catbox.moe/x81wax.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El computador de treinta toneladas, la foto que salía sola y el cubo imposible</title>
       <description>Cinco inventos que parecían locura: el ENIAC de treinta toneladas que se programaba con cables, la foto instantánea que nació de la pregunta de una niña, el código de barras dibujado en la arena, el motor a reacción que nadie quiso, la impresora que imprime objetos, más dos datos relámpago, la llamada en vivo de Inés desde Anchorage y el Dato Bomba del cubo de Rubik. Pregunta del día: Si tuvieras que programar el ENIAC enchufando cables a mano, ¿qué le pedirías que calculara primero? Opción A: la trayectoria de un cohete hasta la Luna. Opción B: el pronóstico del tiempo de todo un año, día por día. Opción C: todos los números de la lotería de la semana que viene. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Wed, 28 Oct 2026 15:42:09 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>12:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El Monopoly anticapitalista, la lengua con huella única y la tormenta eterna de Júpiter</title>
-      <description>Episodio especial de la tarde: el dato bomba del Monopoly (inventado para criticar a los ricos), el dato del oyente sobre las huellas únicas de la lengua y la Gran Mancha Roja de Júpiter, una tormenta de más de trescientos años. Con Sofía y Diego. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sun, 11 Oct 2026 14:29:31 -0400</pubDate>
-      <guid isPermaLink="false">el-monopoly-anticapitalista-la-lengua-con-huella-nica-y-la-tormenta-eterna-de-jpiter-2026-10-11</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-monopoly-anticapitalista-la-lengua-con-huella-nica-y-la-tormenta-eterna-de-jpiter-2026-10-11.mp3" length="12524223" type="audio/mpeg"/>
-      <itunes:duration>13:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
