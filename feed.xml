@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 30 Oct 2026 12:42:09 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                <item>
+    <lastBuildDate>Fri, 30 Oct 2026 15:41:46 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>La dinamita que creó el Nobel, la cremallera y las cloacas que salvaron Londres</title>
+      <description>En Insólito en 5 con Dennito de la tarde, cómo lo hicieron: la dinamita que creó el Premio Nobel, la cremallera que tardó treinta años en despegar, el teflón que nació por accidente, la máquina de coser de Elias Howe, el reloj de cuarzo Seiko Astron, la bolsa de té y el corrector líquido, la llamada de Odalys desde Lubbock y el Dato Bomba de las cloacas de Londres que salvaron la ciudad. Pregunta del día: ¿qué construyó Joseph Bazalgette para salvar a Londres del cólera y del Gran Hedor? Opción A: una red de cloacas bajo tierra, con terraplenes y estaciones de bombeo. Opción B: un puente nuevo sobre el río Támesis. Opción C: una presa gigante que secó el río Támesis. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Fri, 30 Oct 2026 15:41:46 -0400</pubDate>
+      <guid isPermaLink="false">la-dinamita-que-cre-el-nobel-la-cremallera-y-las-cloacas-que-salvaron-londres-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/la-dinamita-que-cre-el-nobel-la-cremallera-y-las-cloacas-que-salvaron-londres-2026-10-30.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El avión que dio la vuelta al mundo sin combustible, la jugada imposible y la mujer imposible de hundir</title>
       <description>En Insólito en 5 con Dennito del mediodía: el avión Solar Impulse dos que dio la vuelta al mundo sin una gota de combustible, la jugada treinta y siete de AlphaGo que ningún humano habría hecho, el hueso hioides que flota suelto en tu cuello, la Casa Torcida de Sopot, el buzkashi a caballo de Afganistán, el rey vikingo detrás de Bluetooth, la isla de los conejos de Japón, la llamada de Abril desde Tulsa y el Dato Bomba de Violet Jessop, la mujer imposible de hundir. Pregunta del día: ¿En cuántos desastres de barcos hermanos estuvo Violet Jessop? Opción A: en tres, el Olympic, el Titanic y el Britannic. Opción B: en dos, el Titanic y el Britannic. Opción C: en uno, solo el Titanic. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Fri, 30 Oct 2026 12:42:09 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>14:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El gran debate: el koala criminal contra la vaca despechada</title>
-      <description>Sofía y Diego se enfrentan en el debate más absurdo de la historia: ¿quién ganaría, un koala con tus huellas dactilares o una vaca despechada sin su mejor amiga? Además: el dato bomba que va a arruinar tu desayuno y el mensaje de Paola de Los Ángeles. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Wed, 14 Oct 2026 20:55:04 -0400</pubDate>
-      <guid isPermaLink="false">el-gran-debate-el-koala-criminal-contra-la-vaca-despechada-2026-10-15</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-gran-debate-el-koala-criminal-contra-la-vaca-despechada-2026-10-15.mp3" length="12477829" type="audio/mpeg"/>
-      <itunes:duration>12:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
