@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 29 Oct 2026 15:41:54 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                    <item>
+    <lastBuildDate>Thu, 29 Oct 2026 20:42:14 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                        <item>
+      <title>La estación que zumba sola, el tesoro de las montañas y el planeta invisible</title>
+      <description>Una radio que lleva más de cuarenta años zumbando sola, el primer virus que retaba a quien lo persiguiera, un tesoro escondido en las montañas, un búnker secreto bajo un hotel de lujo, la burbuja en la que vivimos y el Dato Bomba: el planeta gigante que nadie ha visto jamás. Con la llamada en vivo de Mateo, desde Spokane, Washington. Pregunta del día: ¿qué prueba tenemos del Planeta Nueve? Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Thu, 29 Oct 2026 20:42:14 -0400</pubDate>
+      <guid isPermaLink="false">la-estacin-que-zumba-sola-el-tesoro-de-las-montaas-y-el-planeta-invisible-2026-10-29</guid>
+      <enclosure url="https://files.catbox.moe/6zv4my.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El paracaídas con mensaje secreto, la cadena de Ford y el túnel que se encontró bajo el mar</title>
       <description>Cinco inventos que parecían locura: el paracaídas del Perseverance con un mensaje secreto tejido en su tela, la cadena de Ford que armaba un carro en noventa y tres minutos, la caja de metal que abarató el comercio del mundo, el transistor que jubiló a los tubos de vacío y el primer láser, más dos datos relámpago, la llamada en vivo de Carla desde Madison y el Dato Bomba del túnel que se encontró bajo el mar. Pregunta del día: ¿Qué mensaje escondía el paracaídas del robot Perseverance cuando aterrizó en Marte? Opción A: las palabras atrévete a cosas poderosas, y las coordenadas del laboratorio que construyó el robot. Opción B: las palabras bienvenidos a Marte, y la fecha del aterrizaje. Opción C: las palabras hecho en la Tierra, y el nombre del piloto del robot. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Thu, 29 Oct 2026 15:41:54 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>13:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El pegamento que no pegaba, el chocolate que inventó el microondas y el queso de burra</title>
-      <description>Martes de duelo en Ríete en 5 con Dennito: Sofía y Diego se enfrentan puya contra puya con el Dato Bomba del post-it que nació del peor pegamento de la historia, el microondas inventado por un chocolate derretido, el Dato del Oyente de Luis de Chicago y el queso más caro del mundo hecho con leche de burra. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Tue, 13 Oct 2026 11:52:21 -0400</pubDate>
-      <guid isPermaLink="false">el-pegamento-que-no-pegaba-el-chocolate-que-invent-el-microondas-y-el-queso-de-burra-2026-10-13</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-pegamento-que-no-pegaba-el-chocolate-que-invent-el-microondas-y-el-queso-de-burra-2026-10-13.mp3" length="12085783" type="audio/mpeg"/>
-      <itunes:duration>12:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
