@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 30 Oct 2026 08:56:14 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                            <item>
+    <lastBuildDate>Fri, 30 Oct 2026 12:42:09 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                <item>
+      <title>El avión que dio la vuelta al mundo sin combustible, la jugada imposible y la mujer imposible de hundir</title>
+      <description>En Insólito en 5 con Dennito del mediodía: el avión Solar Impulse dos que dio la vuelta al mundo sin una gota de combustible, la jugada treinta y siete de AlphaGo que ningún humano habría hecho, el hueso hioides que flota suelto en tu cuello, la Casa Torcida de Sopot, el buzkashi a caballo de Afganistán, el rey vikingo detrás de Bluetooth, la isla de los conejos de Japón, la llamada de Abril desde Tulsa y el Dato Bomba de Violet Jessop, la mujer imposible de hundir. Pregunta del día: ¿En cuántos desastres de barcos hermanos estuvo Violet Jessop? Opción A: en tres, el Olympic, el Titanic y el Britannic. Opción B: en dos, el Titanic y el Britannic. Opción C: en uno, solo el Titanic. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Fri, 30 Oct 2026 12:42:09 -0400</pubDate>
+      <guid isPermaLink="false">el-avin-que-dio-la-vuelta-al-mundo-sin-combustible-la-jugada-imposible-y-la-mujer-imposible-de-hundir-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-avin-que-dio-la-vuelta-al-mundo-sin-combustible-la-jugada-imposible-y-la-mujer-imposible-de-hundir-2026-10-30.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>La planta que aprende sin cerebro, el tren que cruza un edificio y el pez que puede matarte</title>
       <description>En Insólito en 5 con Dennito de esta mañana: la planta mimosa que aprende sin cerebro y recuerda un mes, el tren de Chongqing que cruza un edificio de diecinueve pisos, el pangolín con armadura de escamas, el pez fugu venenoso de Japón, el deporte que mezcla ajedrez y boxeo, un queso con larvas que saltan, un rayo más caliente que el Sol, la llamada de Felipe desde Salem y el Dato Bomba de la cascada más grande del planeta, escondida bajo el mar. Pregunta del día: ¿dónde está la cascada más grande del planeta? Opción A: bajo el mar, entre Groenlandia e Islandia, en el estrecho de Dinamarca. Opción B: en tierra, en el Salto Ángel, en Venezuela. Opción C: en las cataratas del Niágara, entre Estados Unidos y Canadá. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Fri, 30 Oct 2026 08:56:14 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>12:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El koala con tus huellas, la vaca con mejor amiga y el camarón que piensa con el corazón</title>
-      <description>¿No les pasa que...? Hoy en Ríete en 5 con Dennito: el koala con huellas dactilares idénticas a las humanas que podría cometer el crimen perfecto, las vacas que tienen mejor amiga y se estresan sin ella, y el camarón que se tomó muy en serio lo de pensar con el corazón. Además, el Dato del Oyente con Rosa de Hialeah. Humor observacional con Sofía y Diego. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Wed, 14 Oct 2026 11:59:10 -0400</pubDate>
-      <guid isPermaLink="false">el-koala-con-tus-huellas-la-vaca-con-mejor-amiga-y-el-camarn-que-piensa-con-el-corazn-2026-10-14</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-koala-con-tus-huellas-la-vaca-con-mejor-amiga-y-el-camarn-que-piensa-con-el-corazn-2026-10-14.mp3" length="11962903" type="audio/mpeg"/>
-      <itunes:duration>12:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
