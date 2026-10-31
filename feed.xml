@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 31 Oct 2026 08:56:01 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                            <item>
+    <lastBuildDate>Sat, 31 Oct 2026 12:41:59 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                                <item>
+      <title>¡LA BARRA QUE LE CRUZÓ LA CABEZA!</title>
+      <description>Un hombre al que una barra de hierro le cruzó la cabeza y siguió hablando, la polilla que quedó pegada en la historia de las computadoras, la carita sonriente de cuarenta y cinco dólares, un país que llegó tarde a la televisión, un pueblo copiado en China, una milla imposible, una puerta que no lleva a ningún sitio y la primera foto de un agujero negro. Insólito en 5 con Dennito, el plato fuerte del mediodía. Pregunta del día: ¿Qué fotografió por primera vez el Telescopio del Horizonte de Sucesos en 2019? Opción A: un agujero negro en la galaxia M87, con su anillo de gas caliente. Opción B: un planeta nuevo más allá de Neptuno. Opción C: la primera estrella que nació después del Big Bang. Escribe tu respuesta en los comentarios, dale like si este capítulo te sorprendió y suscríbete. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sat, 31 Oct 2026 12:41:59 -0400</pubDate>
+      <guid isPermaLink="false">la-barra-que-le-cruz-la-cabeza-2026-10-31</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/la-barra-que-le-cruz-la-cabeza-2026-10-31.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>¡EL PUEBLO QUE SE DORMÍA!</title>
       <description>Un pueblo entero que se dormía sin aviso, la primera foto divertida de la red, un rey que inventó un alfabeto, una guerra por unos pasteles, una botella de ciento treinta y dos años y la isla que cuatro países pelearon y el mar se llevó. Insólito en 5 con Dennito, para despertar. Pregunta del día: ¿Qué pasó con la isla por la que pelearon cuatro países en mil ochocientos treinta y uno? Opción A: se hundió en pocos meses, porque las olas se comieron su ceniza, y la disputa se acabó sola. Opción B: sigue siendo territorio británico y hoy tiene un faro y un pequeño puerto. Opción C: se convirtió en una base militar secreta que todavía vigila el Mediterráneo. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sat, 31 Oct 2026 08:56:01 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>12:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Bizarro no significa raro, el trabajo era una tortura y hablas árabe sin saberlo</title>
-      <description>Juegos de palabras del viernes: bizarro significa valiente según la RAE, el trabajo viene de un instrumento de tortura y hablas árabe sin saberlo. Con el Dato del Oyente de Lucía de Phoenix. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Fri, 16 Oct 2026 14:44:24 -0400</pubDate>
-      <guid isPermaLink="false">bizarro-no-significa-raro-el-trabajo-era-una-tortura-y-hablas-rabe-sin-saberlo-2026-10-16</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/bizarro-no-significa-raro-el-trabajo-era-una-tortura-y-hablas-rabe-sin-saberlo-2026-10-16.mp3" length="12690570" type="audio/mpeg"/>
-      <itunes:duration>13:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
