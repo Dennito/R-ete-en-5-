@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 30 Oct 2026 20:41:36 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                        <item>
+    <lastBuildDate>Sat, 31 Oct 2026 08:56:01 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>¡EL PUEBLO QUE SE DORMÍA!</title>
+      <description>Un pueblo entero que se dormía sin aviso, la primera foto divertida de la red, un rey que inventó un alfabeto, una guerra por unos pasteles, una botella de ciento treinta y dos años y la isla que cuatro países pelearon y el mar se llevó. Insólito en 5 con Dennito, para despertar. Pregunta del día: ¿Qué pasó con la isla por la que pelearon cuatro países en mil ochocientos treinta y uno? Opción A: se hundió en pocos meses, porque las olas se comieron su ceniza, y la disputa se acabó sola. Opción B: sigue siendo territorio británico y hoy tiene un faro y un pequeño puerto. Opción C: se convirtió en una base militar secreta que todavía vigila el Mediterráneo. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sat, 31 Oct 2026 08:56:01 -0400</pubDate>
+      <guid isPermaLink="false">el-pueblo-que-se-dorma-2026-10-31</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-pueblo-que-se-dorma-2026-10-31.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El creador fantasma del bitcoin, la escultura que la CIA no puede leer y la pila de hace dos mil años</title>
       <description>Noche de misterios sin respuesta: Satoshi Nakamoto, Kryptos, las Huellas del Diablo, la anomalía del Báltico, el túnel de Teotihuacán, el incidente Vela, la llamada de Aitana desde Reno y el Dato Bomba de la batería de Bagdad. Pregunta del día: ¿qué había dentro de la vasija de Bagdad? Opción A: un cilindro de cobre con una varilla de hierro dentro, sellados con asfalto. Opción B: un pergamino con el plano de la primera pila moderna, firmado por Volta. Opción C: monedas de oro y un mapa del tesoro del Imperio parto. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Fri, 30 Oct 2026 20:41:36 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>13:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Las papas fritas no son francesas, el guepardo que maúlla y el abuelo tiktoker</title>
-      <description>Bomba informativa: las papas fritas son belgas, no francesas. Además: el guepardo que maúlla como gatito, el tejón de la miel que no le teme a nada, y los mensajes de oyentes más divertidos, con el abuelo tiktoker de ochenta y nueve años. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Thu, 15 Oct 2026 20:52:35 -0400</pubDate>
-      <guid isPermaLink="false">las-papas-fritas-no-son-francesas-el-guepardo-que-malla-y-el-abuelo-tiktoker-2026-10-16</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/las-papas-fritas-no-son-francesas-el-guepardo-que-malla-y-el-abuelo-tiktoker-2026-10-16.mp3" length="12076170" type="audio/mpeg"/>
-      <itunes:duration>12:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
