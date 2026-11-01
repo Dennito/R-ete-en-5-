@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 31 Oct 2026 20:42:05 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                                        <item>
+    <lastBuildDate>Sun, 01 Nov 2026 08:55:58 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>¡La película que nadie verá!</title>
+      <description>Una película terminada que nadie vivo podrá ver, un barco que cruzó el Atlántico sin nadie a bordo, una carretera que el mar se traga dos veces al día, una carrera detrás de un queso y una finca sin sol y sin tierra, más la llamada de Alejandra desde Provo y el Dato Bomba del médico que se operó a sí mismo en la Antártida. Pregunta del día: ¿Qué hizo Leonid Rogozov cuando tuvo apendicitis en la Antártida en mil novecientos sesenta y uno? Opción A: se operó él mismo el apéndice, con anestesia local, con la ayuda de dos compañeros y un espejo. Opción B: esperó a que un avión lo sacara de la Antártida para operarlo en un hospital. Opción C: se curó solo con antibióticos y reposo, sin necesidad de cirugía. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sun, 01 Nov 2026 08:55:58 -0500</pubDate>
+      <guid isPermaLink="false">la-pelcula-que-nadie-ver-2026-11-01</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/la-pelcula-que-nadie-ver-2026-11-01.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>El monolito, el continente escondido y las estatuas que tenían cuerpo</title>
       <description>Sofía, Diego e Isabela cuentan el monolito de Utah que apareció y desapareció, los círculos de hadas de Namibia, el continente escondido Zealandia, el efecto Mandela, el destello verde y Julio Verne, la llamada de Isabela desde Colorado Springs, y cierran con el Dato Bomba sobre las estatuas de la isla de Pascua. Insólito en 5 con Dennito, lo que no se explica. Pregunta del día: ¿Qué hay debajo de las cabezas de las estatuas de la isla de Pascua? Opción A: cuerpos completos enterrados, con torso, brazos y dibujos grabados en la espalda. Opción B: solo bases de piedra sin forma, porque las estatuas siempre fueron solo cabezas. Opción C: túneles que conectan todas las estatuas por debajo de la isla. Escribe tu respuesta en los comentarios, dale like si este capítulo te sorprendió y suscríbete. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sat, 31 Oct 2026 20:42:05 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>13:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>La mentira de la Gran Muralla, el robot que engañó a Napoleón y un volcán por dentro</title>
-      <description>El Dato Bomba: la Gran Muralla China NO se ve desde el espacio a simple vista, y el primer astronauta chino lo confirmó. Además: El Turco, el autómata de mil setecientos setenta que derrotó a Napoleón en el ajedrez con trampa incluida, y el único volcán del mundo donde bajas ciento veinte metros dentro de la cámara de magma. Con el Dato del Oyente. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sat, 17 Oct 2026 12:51:19 -0400</pubDate>
-      <guid isPermaLink="false">la-mentira-de-la-gran-muralla-el-robot-que-enga-a-napolen-y-un-volcn-por-dentro-2026-10-17</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/la-mentira-de-la-gran-muralla-el-robot-que-enga-a-napolen-y-un-volcn-por-dentro-2026-10-17.mp3" length="12615338" type="audio/mpeg"/>
-      <itunes:duration>13:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
