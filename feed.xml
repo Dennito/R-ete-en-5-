@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 01 Nov 2026 12:41:28 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                                                <item>
+    <lastBuildDate>Sun, 01 Nov 2026 15:41:50 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>¡El templo que se mudó entero!</title>
+      <description>Dos templos cortados en más de mil bloques para salvarlos de un lago, un hotel de treinta pisos armado en quince días, hormigón subido a más de seiscientos metros, un vidrio que esperó cuarenta años, la llamada de Marisol desde Sioux Falls y el Dato Bomba del crucero que volvió a ponerse derecho. Pregunta del día: ¿Qué hicieron los ingenieros para enderezar el Costa Concordia en el año dos mil trece? Opción A: girarlo poco a poco con cables y cajas de acero llenas de agua, en diecinueve horas, hasta dejarlo derecho sobre plataformas bajo el agua. Opción B: levantarlo entero con grúas desde el aire, en un solo día. Opción C: cortarlo en pedazos bajo el agua y sacarlo por partes. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sun, 01 Nov 2026 15:41:50 -0500</pubDate>
+      <guid isPermaLink="false">el-templo-que-se-mud-entero-2026-11-01</guid>
+      <enclosure url="https://files.catbox.moe/jtjo1n.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>¡El puente que bailó hasta caerse!</title>
       <description>Un puente que bailó con el viento hasta romperse, un lagarto con la sangre verde, una bacteria que se come el plástico, una mano que desobedece, un robot que se cantó cumpleaños en Marte, una planta que cuenta hasta cinco, la llamada de Nadia desde Grand Rapids y el Dato Bomba del agua escondida en el manto de la Tierra. Pregunta del día: ¿Dónde puede haber guardada tanta agua como en todos los océanos juntos, según los estudios del manto? Opción A: en un mineral del manto, entre cuatrocientos diez y seiscientos sesenta kilómetros bajo tierra. Opción B: dentro de un glaciar de Groenlandia. Opción C: en las nubes más altas del planeta. Escribe tu respuesta en los comentarios, dale like si el capítulo te sorprendió y suscríbete. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sun, 01 Nov 2026 12:41:28 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>13:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El ajedrez infinito, el hígado que renace y la estatua que cambió de color</title>
-      <description>¿Sabías que hay más partidas de ajedrez posibles que átomos en el universo? ¿Que tu hígado puede regenerarse solo? ¿Y que la Estatua de la Libertad no siempre fue verde? Sofía y Diego te traen las cosas que no sabías: El Dato Bomba, El Dato del Oyente y datos relámpago. Insólito en 5 con Dennito. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sat, 17 Oct 2026 20:53:32 -0400</pubDate>
-      <guid isPermaLink="false">el-ajedrez-infinito-el-hgado-que-renace-y-la-estatua-que-cambi-de-color-2026-10-18</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/el-ajedrez-infinito-el-hgado-que-renace-y-la-estatua-que-cambi-de-color-2026-10-18.mp3" length="12448990" type="audio/mpeg"/>
-      <itunes:duration>12:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
