@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 01 Nov 2026 15:41:50 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <lastBuildDate>Fri, 06 Nov 2026 07:43:56 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                                                        <item>
+      <title>La esfera que se movía sola y la mujer sin nombre</title>
+      <description>Misterios que siguen abiertos: la esfera de Betz, la señal FRB que se repite, Hinterkaifeck, Stuxnet, dos datos relámpago, la llamada de Soraya desde Chattanooga y el Dato Bomba de la mujer del valle de Isdal. Pregunta del día: ¿Por qué, después de más de cincuenta años, nadie sabe quién era la mujer del valle de Isdal? Opción A: porque usaba al menos ocho nombres distintos, con pasaportes distintos, y todas las etiquetas de su ropa y de sus cosas estaban quitadas. Opción B: porque nunca se encontró su cuerpo, y solo quedaron unas maletas vacías en una estación de tren. Opción C: porque su código secreto nunca se descifró, y nadie supo por qué ciudades había viajado. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Fri, 06 Nov 2026 07:43:56 -0500</pubDate>
+      <guid isPermaLink="false">la-esfera-que-se-mova-sola-y-la-mujer-sin-nombre-2026-11-01</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/la-esfera-que-se-mova-sola-y-la-mujer-sin-nombre-2026-11-01.mp3" length="14596432" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>¡El templo que se mudó entero!</title>
       <description>Dos templos cortados en más de mil bloques para salvarlos de un lago, un hotel de treinta pisos armado en quince días, hormigón subido a más de seiscientos metros, un vidrio que esperó cuarenta años, la llamada de Marisol desde Sioux Falls y el Dato Bomba del crucero que volvió a ponerse derecho. Pregunta del día: ¿Qué hicieron los ingenieros para enderezar el Costa Concordia en el año dos mil trece? Opción A: girarlo poco a poco con cables y cajas de acero llenas de agua, en diecinueve horas, hasta dejarlo derecho sobre plataformas bajo el agua. Opción B: levantarlo entero con grúas desde el aire, en un solo día. Opción C: cortarlo en pedazos bajo el agua y sacarlo por partes. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sun, 01 Nov 2026 15:41:50 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>13:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Tu cabeza es más vieja que tus pies, tres billones de árboles y la foto de ocho horas</title>
-      <description>Tu cabeza envejece más rápido que tus pies y la ciencia lo midió. Además: hay más árboles en la Tierra que estrellas en la Vía Láctea, el escorpión que brilla bajo luz ultravioleta, la anguila de ochocientos sesenta voltios, la primera foto de la historia que tardó ocho horas y el abuelo que guarda las pilas en la nevera. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sun, 18 Oct 2026 09:55:01 -0400</pubDate>
-      <guid isPermaLink="false">tu-cabeza-es-ms-vieja-que-tus-pies-tres-billones-de-rboles-y-la-foto-de-ocho-horas-2026-10-18</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/tu-cabeza-es-ms-vieja-que-tus-pies-tres-billones-de-rboles-y-la-foto-de-ocho-horas-2026-10-18.mp3" length="12693914" type="audio/mpeg"/>
-      <itunes:duration>13:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
