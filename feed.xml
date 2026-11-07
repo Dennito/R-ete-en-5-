@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 07 Nov 2026 12:44:59 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <lastBuildDate>Sat, 07 Nov 2026 13:08:16 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                                                                <item>
+      <title>El árbol de las cuarenta frutas y la ola más alta de la historia</title>
+      <description>Insólito en 5 con Dennito: el árbol de las cuarenta frutas, la novela escrita sin la letra e, el helicóptero Ingenuity en Marte, el idioma sin números y el castillo que se construye como en el siglo trece, y el Dato Bomba del megatsunami de Lituya, la ola más alta de la historia. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sat, 07 Nov 2026 13:08:16 -0500</pubDate>
+      <guid isPermaLink="false">el-rbol-de-las-cuarenta-frutas-y-la-ola-ms-alta-de-la-historia-2026-11-02</guid>
+      <enclosure url="https://files.catbox.moe/zlr12g.mp3" length="14569297" type="audio/mpeg"/>
+      <itunes:duration>15:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>¡El mensaje para el año 6939!</title>
       <description>Insólito en 5 con Dennito: el mensaje enterrado para el año 6939, el chico de granja que inventó la televisión, la biblioteca que viaja en burro, el primer plástico del mundo, el tenedor que escandalizó a Venecia, y el Dato Bomba de Jeanne Calment, la mujer que vivió 122 años. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sat, 07 Nov 2026 12:44:59 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>12:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>La nave a un día luz, el cerebro que no siente y la cinta imposible</title>
-      <description>La Voyager 1 está por llegar a un día luz de la Tierra con un disco de oro a bordo; tu cerebro no tiene receptores de dolor; y con un metro extra, una cinta alrededor del planeta flotaría dieciséis centímetros. Cosas que no sabías, con Sofía y Diego. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sun, 18 Oct 2026 15:56:16 -0400</pubDate>
-      <guid isPermaLink="false">la-nave-a-un-da-luz-el-cerebro-que-no-siente-y-la-cinta-imposible-2026-10-18</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/la-nave-a-un-da-luz-el-cerebro-que-no-siente-y-la-cinta-imposible-2026-10-18.mp3" length="11625192" type="audio/mpeg"/>
-      <itunes:duration>12:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
