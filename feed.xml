@@ -17,8 +17,17 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 06 Nov 2026 07:43:56 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <lastBuildDate>Sat, 07 Nov 2026 12:44:59 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>¡El mensaje para el año 6939!</title>
+      <description>Insólito en 5 con Dennito: el mensaje enterrado para el año 6939, el chico de granja que inventó la televisión, la biblioteca que viaja en burro, el primer plástico del mundo, el tenedor que escandalizó a Venecia, y el Dato Bomba de Jeanne Calment, la mujer que vivió 122 años. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sat, 07 Nov 2026 12:44:59 -0500</pubDate>
+      <guid isPermaLink="false">el-mensaje-para-el-ao-6939-2026-11-02</guid>
+      <enclosure url="https://files.catbox.moe/i0vmrz.mp3" length="12439345" type="audio/mpeg"/>
+      <itunes:duration>12:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>La esfera que se movía sola y la mujer sin nombre</title>
       <description>Misterios que siguen abiertos: la esfera de Betz, la señal FRB que se repite, Hinterkaifeck, Stuxnet, dos datos relámpago, la llamada de Soraya desde Chattanooga y el Dato Bomba de la mujer del valle de Isdal. Pregunta del día: ¿Por qué, después de más de cincuenta años, nadie sabe quién era la mujer del valle de Isdal? Opción A: porque usaba al menos ocho nombres distintos, con pasaportes distintos, y todas las etiquetas de su ropa y de sus cosas estaban quitadas. Opción B: porque nunca se encontró su cuerpo, y solo quedaron unas maletas vacías en una estación de tren. Opción C: porque su código secreto nunca se descifró, y nadie supo por qué ciudades había viajado. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Fri, 06 Nov 2026 07:43:56 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>12:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Llueven diamantes en Neptuno (y el Everest perdió su corona)</title>
-      <description>En Neptuno y Urano llueven diamantes de verdad, en la Antártida un glaciar sangra óxido desde hace más de un siglo, tu cuerpo brilla en la oscuridad y el Everest no es la cima más lejana del centro de la Tierra. Sofía y Diego te cuentan las cosas que no sabías, con el Dato Bomba y el Dato del Oyente. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sun, 18 Oct 2026 12:51:40 -0400</pubDate>
-      <guid isPermaLink="false">llueven-diamantes-en-neptuno-y-el-everest-perdi-su-corona-2026-10-18</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/R-ete-en-5-/main/audio/llueven-diamantes-en-neptuno-y-el-everest-perdi-su-corona-2026-10-18.mp3" length="12519625" type="audio/mpeg"/>
-      <itunes:duration>13:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
